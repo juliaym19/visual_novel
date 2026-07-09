@@ -1,7 +1,8 @@
-# visual_novel
+# **visual_novel**
 Projeto de visual novel
 
-# estrutura de pastas
+# **estrutura de pastas**
+```
 visual_novel/
 │
 ├── game/                   # Pasta principal do jogo
@@ -25,9 +26,11 @@ visual_novel/
 ├── .gitignore              # Arquivos que devem ser ignorados pelo controle de versão
 ├── README.md               # Documentação básica do seu projeto
 └── LICENSE                 # Licença do seu jogo
-
-# Pardrão de commits
+```
+# **Pardrão de commits**
+```
 feat: adiciona seção hero
 fix: corrige responsividade da navbar
 style: ajusta espaçamentos
 refactor: reorganiza componente card
+```
